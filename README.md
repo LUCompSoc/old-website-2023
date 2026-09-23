@@ -5,7 +5,7 @@
 > 
 > - **Created:** 15th July 2023
 > - **Last updated:** 10th May 2025
-> - **More info:** [GitWhoIs](https://gitwhois.com/LUCompSoc/old-website-2023)
+> - **More info:** [GitWhois](https://gitwhois.com/LUCompSoc/old-website-2023)
 
 # compsocwebsite-app
 
